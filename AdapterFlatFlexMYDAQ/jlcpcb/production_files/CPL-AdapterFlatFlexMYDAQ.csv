@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_02x10_Odd_Even,IDC-Header_2x10_P2.54mm_Vertical_SMD,103.55,-58.65,180.0,top
+J2,Conn_02x08_Odd_Even,IDC-Header_2x08_P2.54mm_Vertical_SMD,103.7,-91.61,180.0,top
+J4,Conn_01x20_Pin,OSTV7203151,89.5,-74.5,90.0,top
+R5,R,R_0603_1608Metric,104.325,-76.5,270.0,bottom

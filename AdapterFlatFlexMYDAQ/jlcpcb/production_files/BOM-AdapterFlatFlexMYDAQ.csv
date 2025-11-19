@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC
+Conn_02x10_Odd_Even,J1,IDC-Header_2x10_P2.54mm_Vertical_SMD,
+Conn_02x08_Odd_Even,J2,IDC-Header_2x08_P2.54mm_Vertical_SMD,
+Conn_01x20_Pin,J4,OSTV7203151,
+R,R5,R_0603_1608Metric,
